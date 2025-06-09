@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RRanand-git
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python and C language
+- 💻 I'm currently learning webdev and learning HTML,CSS,JAVAscript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : rranand.ac@gmail.com
 - ⚡  fact: I'm college student start My coding jounery :) 
